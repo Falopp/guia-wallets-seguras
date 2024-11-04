@@ -1,9 +1,9 @@
 
-# 🛡️ Guía Avanzada para la Creación Segura de una 💰 Criptográfica
+# 🛡️ Guía Avanzada para la Creación Segura de una Wallet
 
 ---
 
-## 🛠️ Entornos Seguros para la Gestión de 💰 Criptográficas
+## 🛠️ Entornos Seguros para la Gestión de 💰 Criptos
 
 **🌀 Tails OS**: Tails OS es particularmente adecuado para contextos que requieren un entorno operativo temporal sin almacenamiento persistente de datos. Su arquitectura está diseñada para eliminar cualquier rastro tras cada sesión, proporcionando un entorno seguro y efímero, ideal para la creación de 💰 criptográficas.
 
